@@ -1,0 +1,49 @@
+ <!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>CV</title>
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+ <header>
+
+ <h1>osamah musaed </h1>
+
+ </address> <p>Ilim yayma cemiyeti erkek öğrenci yurdu</p>
+
+ </address>
+
+ <p> osama715008285@gmail.com</p>
+
+ </header>
+
+ 
+
+ <section class="experience">
+
+ <h2>experience </h2>
+
+ <ul>
+
+ <li>Academic Officer at the Yemeni Students Union in Karabük (2023/2024).
+
+Participated in various union service activities.
+
+Engaged in several volunteer projects 1</li>
+
+ <li> </li>
+
+ </ul>
